@@ -1,0 +1,341 @@
+\begin{thebibliography}{51}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abu-El-Haija et~al.(2019{\natexlab{a}})Abu-El-Haija, Kapoor, Perozzi,
+  and Lee]{abu2018n}
+Abu-El-Haija, S., Kapoor, A., Perozzi, B., and Lee, J.
+\newblock N-gcn: Multi-scale graph convolution for semi-supervised node
+  classification.
+\newblock In \emph{Proceedings of the Conference on Uncertainty in Artificial
+  Intelligence (UAI)}, 2019{\natexlab{a}}.
+\newblock URL \url{http://auai.org/uai2019/proceedings/papers/310.pdf}.
+
+\bibitem[Abu-El-Haija et~al.(2019{\natexlab{b}})Abu-El-Haija, Perozzi, Kapoor,
+  Alipourfard, Lerman, Harutyunyan, Steeg, and Galstyan]{abuelhaija2019mixhop}
+Abu-El-Haija, S., Perozzi, B., Kapoor, A., Alipourfard, N., Lerman, K.,
+  Harutyunyan, H., Steeg, G.~V., and Galstyan, A.
+\newblock Mixhop: Higher-order graph convolutional architectures via sparsified
+  neighborhood mixing, 2019{\natexlab{b}}.
+
+\bibitem[Bronstein et~al.(2017)Bronstein, Bruna, LeCun, Szlam, and
+  Vandergheynst]{bronstein2017geometric}
+Bronstein, M.~M., Bruna, J., LeCun, Y., Szlam, A., and Vandergheynst, P.
+\newblock Geometric deep learning: going beyond euclidean data.
+\newblock \emph{IEEE Signal Processing Magazine}, 34\penalty0 (4):\penalty0
+  18--42, 2017.
+
+\bibitem[Bruna \& Mallat(2013)Bruna and Mallat]{bruna2013invariant}
+Bruna, J. and Mallat, S.
+\newblock Invariant scattering convolution networks.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 35\penalty0 (8):\penalty0 1872--1886, 2013.
+
+\bibitem[Bruna et~al.(2014)Bruna, Zaremba, Szlam, and LeCun]{bruna2014spectral}
+Bruna, J., Zaremba, W., Szlam, A., and LeCun, Y.
+\newblock Spectral networks and locally connected networks on graphs.
+\newblock In \emph{2nd International Conference on Learning Representations,
+  {ICLR} 2014}, 2014.
+
+\bibitem[Cangea et~al.(2018)Cangea, Veli{\v{c}}kovi{\'c}, Jovanovi{\'c}, Kipf,
+  and Li{\`o}]{cangea2018towards}
+Cangea, C., Veli{\v{c}}kovi{\'c}, P., Jovanovi{\'c}, N., Kipf, T., and Li{\`o},
+  P.
+\newblock Towards sparse hierarchical graph classifiers.
+\newblock \emph{arXiv preprint arXiv:1811.01287}, 2018.
+
+\bibitem[Chen et~al.(2014)Chen, Cheng, and Mallat]{chen2014unsupervised}
+Chen, X., Cheng, X., and Mallat, S.
+\newblock Unsupervised deep haar scattering on graphs.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  1709--1717, 2014.
+
+\bibitem[Coifman \& Maggioni(2006)Coifman and Maggioni]{coifman2006diffusion}
+Coifman, R.~R. and Maggioni, M.
+\newblock Diffusion wavelets.
+\newblock \emph{Applied and Computational Harmonic Analysis}, 21\penalty0
+  (1):\penalty0 53--94, 2006.
+
+\bibitem[Crovella \& Kolaczyk(2003)Crovella and Kolaczyk]{crovella2003graph}
+Crovella, M. and Kolaczyk, E.
+\newblock Graph wavelets for spatial traffic analysis.
+\newblock In \emph{IEEE INFOCOM 2003. Twenty-second Annual Joint Conference of
+  the IEEE Computer and Communications Societies (IEEE Cat. No. 03CH37428)},
+  volume~3, pp.\  1848--1857. IEEE, 2003.
+
+\bibitem[Defferrard et~al.(2016)Defferrard, Bresson, and
+  Vandergheynst]{defferrard2016convolutional}
+Defferrard, M., Bresson, X., and Vandergheynst, P.
+\newblock Convolutional neural networks on graphs with fast localized spectral
+  filtering.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  3844--3852, 2016.
+
+\bibitem[Deng et~al.(2020)Deng, Zhao, Wang, Zhang, and Feng]{deng2020graphzoom}
+Deng, C., Zhao, Z., Wang, Y., Zhang, Z., and Feng, Z.
+\newblock Graphzoom: A multi-level spectral approach for accurate and scalable
+  graph embedding.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+\newblock URL \url{https://openreview.net/forum?id=r1lGO0EKDH}.
+
+\bibitem[Diehl(2019)]{diehl2019edge}
+Diehl, F.
+\newblock Edge contraction pooling for graph neural networks.
+\newblock \emph{arXiv preprint arXiv:1905.10990}, 2019.
+
+\bibitem[Donnat et~al.(2018)Donnat, Zitnik, Hallac, and
+  Leskovec]{donnat2018learning}
+Donnat, C., Zitnik, M., Hallac, D., and Leskovec, J.
+\newblock Learning structural node embeddings via diffusion wavelets.
+\newblock In \emph{Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pp.\  1320--1329, 2018.
+
+\bibitem[Gama et~al.(2019{\natexlab{a}})Gama, Estrach, and
+  Ribeiro]{gama2019diffusion}
+Gama, F., Estrach, J.~B., and Ribeiro, A.
+\newblock Diffusion scattering transforms on graphs.
+\newblock In \emph{7th International Conference on Learning Representations,
+  ICLR 2019}, 2019{\natexlab{a}}.
+
+\bibitem[Gama et~al.(2019{\natexlab{b}})Gama, Ribeiro, and
+  Bruna]{gama2019stability}
+Gama, F., Ribeiro, A., and Bruna, J.
+\newblock Stability of graph scattering transforms.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  8036--8046, 2019{\natexlab{b}}.
+
+\bibitem[Gao et~al.(2019)Gao, Wolf, and Hirn]{gao2019geometric}
+Gao, F., Wolf, G., and Hirn, M.
+\newblock Geometric scattering for graph data analysis.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  2122--2131, 2019.
+
+\bibitem[Gavish et~al.(2010)Gavish, Nadler, and Coifman]{gavish2010multiscale}
+Gavish, M., Nadler, B., and Coifman, R.~R.
+\newblock Multiscale wavelets on trees, graphs and high dimensional data:
+  theory and applications to semi supervised learning.
+\newblock In \emph{Proceedings of the 27th International Conference on
+  International Conference on Machine Learning}, pp.\  367--374, 2010.
+
+\bibitem[Hamilton et~al.(2017)Hamilton, Ying, and
+  Leskovec]{hamilton2017inductive}
+Hamilton, W., Ying, Z., and Leskovec, J.
+\newblock Inductive representation learning on large graphs.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  1024--1034, 2017.
+
+\bibitem[Hammond et~al.(2011)Hammond, Vandergheynst, and
+  Gribonval]{hammond2011wavelets}
+Hammond, D.~K., Vandergheynst, P., and Gribonval, R.
+\newblock Wavelets on graphs via spectral graph theory.
+\newblock \emph{Applied and Computational Harmonic Analysis}, 30\penalty0
+  (2):\penalty0 129--150, 2011.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{he2016deep}
+He, K., Zhang, X., Ren, S., and Sun, J.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pp.\  770--778, 2016.
+
+\bibitem[Henaff et~al.(2015)Henaff, Bruna, and LeCun]{henaff2015deep}
+Henaff, M., Bruna, J., and LeCun, Y.
+\newblock Deep convolutional networks on graph-structured data, 2015.
+
+\bibitem[Klicpera et~al.(2019{\natexlab{a}})Klicpera, Bojchevski, and
+  G{\"u}nnemann]{klicpera_predict_2019}
+Klicpera, J., Bojchevski, A., and G{\"u}nnemann, S.
+\newblock Predict then propagate: Graph neural networks meet personalized
+  pagerank.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2019{\natexlab{a}}.
+
+\bibitem[Klicpera et~al.(2019{\natexlab{b}})Klicpera, Wei{\ss}enberger, and
+  G{\"u}nnemann]{klicpera2019diffusion}
+Klicpera, J., Wei{\ss}enberger, S., and G{\"u}nnemann, S.
+\newblock Diffusion improves graph learning.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  13333--13345, 2019{\natexlab{b}}.
+
+\bibitem[Klicpera et~al.(2020)Klicpera, Groß, and
+  Günnemann]{klicpera2020directional}
+Klicpera, J., Groß, J., and Günnemann, S.
+\newblock Directional message passing for molecular graphs, 2020.
+
+\bibitem[Lee et~al.(2019)Lee, Lee, and Kang]{lee2019self}
+Lee, J., Lee, I., and Kang, J.
+\newblock Self-attention graph pooling.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  3734--3743, 2019.
+
+\bibitem[Levie et~al.(2018)Levie, Monti, Bresson, and
+  Bronstein]{levie2018cayleynets}
+Levie, R., Monti, F., Bresson, X., and Bronstein, M.~M.
+\newblock Cayleynets: Graph convolutional neural networks with complex rational
+  spectral filters.
+\newblock \emph{IEEE Transactions on Signal Processing}, 67\penalty0
+  (1):\penalty0 97--109, 2018.
+
+\bibitem[{Li} et~al.(2019){Li}, {Müller}, {Thabet}, and
+  {Ghanem}]{li2019deepgcns}
+{Li}, G., {Müller}, M., {Thabet}, A., and {Ghanem}, B.
+\newblock Deepgcns: Can gcns go as deep as cnns?
+\newblock In \emph{2019 IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pp.\  9266--9275, 2019.
+
+\bibitem[Li et~al.(2018)Li, Wang, Zhu, and Huang]{li2018adaptive}
+Li, R., Wang, S., Zhu, F., and Huang, J.
+\newblock Adaptive graph convolutional neural networks.
+\newblock In \emph{Thirty-second AAAI conference on artificial intelligence},
+  2018.
+
+\bibitem[Liang et~al.(2018)Liang, Gurukar, and Parthasarathy]{liang2018mile}
+Liang, J., Gurukar, S., and Parthasarathy, S.
+\newblock Mile: A multi-level framework for scalable graph embedding.
+\newblock \emph{arXiv preprint arXiv:1802.09612}, 2018.
+
+\bibitem[Liao et~al.(2019)Liao, Zhao, Urtasun, and Zemel]{liao2019lanczosnet}
+Liao, R., Zhao, Z., Urtasun, R., and Zemel, R.~S.
+\newblock Lanczosnet: Multi-scale deep graph convo-lutional networks.
+\newblock In \emph{7th International Conference on Learning Representations,
+  ICLR 2019}, 2019.
+
+\bibitem[Ng et~al.(2002)Ng, Jordan, and Weiss]{ng2002spectral}
+Ng, A.~Y., Jordan, M.~I., and Weiss, Y.
+\newblock On spectral clustering: Analysis and an algorithm.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  849--856, 2002.
+
+\bibitem[Ortega et~al.(2018)Ortega, Frossard, Kova{\v{c}}evi{\'c}, Moura, and
+  Vandergheynst]{ortega2018graph}
+Ortega, A., Frossard, P., Kova{\v{c}}evi{\'c}, J., Moura, J.~M., and
+  Vandergheynst, P.
+\newblock Graph signal processing: Overview, challenges, and applications.
+\newblock \emph{Proceedings of the IEEE}, 106\penalty0 (5):\penalty0 808--828,
+  2018.
+
+\bibitem[Page et~al.(1999)Page, Brin, Motwani, and Winograd]{page1999pagerank}
+Page, L., Brin, S., Motwani, R., and Winograd, T.
+\newblock The pagerank citation ranking: Bringing order to the web.
+\newblock Technical report, Stanford InfoLab, 1999.
+
+\bibitem[Ram et~al.(2011)Ram, Elad, and Cohen]{ram2011generalized}
+Ram, I., Elad, M., and Cohen, I.
+\newblock Generalized tree-based wavelet transform.
+\newblock \emph{IEEE Transactions on Signal Processing}, 59\penalty0
+  (9):\penalty0 4199--4209, 2011.
+
+\bibitem[Ruiz et~al.(2020)Ruiz, Gama, and Ribeiro]{ruiz2020gated}
+Ruiz, L., Gama, F., and Ribeiro, A.
+\newblock Gated graph recurrent neural networks.
+\newblock \emph{arXiv preprint arXiv:2002.01038}, 2020.
+
+\bibitem[Rustamov \& Guibas(2013)Rustamov and Guibas]{rustamov2013wavelets}
+Rustamov, R. and Guibas, L.~J.
+\newblock Wavelets on graphs via deep learning.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  998--1006, 2013.
+
+\bibitem[Rustamov(2011)]{rustamov2011average}
+Rustamov, R.~M.
+\newblock Average interpolating wavelets on point clouds and graphs.
+\newblock \emph{arXiv preprint arXiv:1110.2227}, 2011.
+
+\bibitem[Shuman et~al.(2013)Shuman, Narang, Frossard, Ortega, and
+  Vandergheynst]{Shuman_2013}
+Shuman, D.~I., Narang, S.~K., Frossard, P., Ortega, A., and Vandergheynst, P.
+\newblock The emerging field of signal processing on graphs: Extending
+  high-dimensional data analysis to networks and other irregular domains.
+\newblock \emph{IEEE Signal Processing Magazine}, 30\penalty0 (3):\penalty0
+  83–98, May 2013.
+\newblock ISSN 1053-5888.
+\newblock \doi{10.1109/msp.2012.2235192}.
+\newblock URL \url{http://dx.doi.org/10.1109/MSP.2012.2235192}.
+
+\bibitem[Simonovsky \& Komodakis(2018)Simonovsky and
+  Komodakis]{simonovsky2018graphvae}
+Simonovsky, M. and Komodakis, N.
+\newblock Graphvae: Towards generation of small graphs using variational
+  autoencoders.
+\newblock In \emph{International Conference on Artificial Neural Networks},
+  pp.\  412--422. Springer, 2018.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{vaswani2017attention}
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
+  Kaiser, {\L}., and Polosukhin, I.
+\newblock Attention is all you need.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  5998--6008, 2017.
+
+\bibitem[Wang et~al.(2014)Wang, Shen, Song, and Ji]{wang2014hashing}
+Wang, J., Shen, H.~T., Song, J., and Ji, J.
+\newblock Hashing for similarity search: A survey.
+\newblock \emph{arXiv preprint arXiv:1408.2927}, 2014.
+
+\bibitem[Wu et~al.(2019)Wu, Jr., Zhang, Fifty, Yu, and
+  Weinberger]{wu2019simplifying}
+Wu, F., Jr., A. H.~S., Zhang, T., Fifty, C., Yu, T., and Weinberger, K.~Q.
+\newblock Simplifying graph convolutional networks.
+\newblock In \emph{ICML}, pp.\  6861--6871, 2019.
+\newblock URL \url{http://proceedings.mlr.press/v97/wu19e.html}.
+
+\bibitem[Wu et~al.(2020)Wu, Pan, Chen, Long, Zhang, and
+  Philip]{wu2020comprehensive}
+Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., and Philip, S.~Y.
+\newblock A comprehensive survey on graph neural networks.
+\newblock \emph{IEEE Transactions on Neural Networks and Learning Systems},
+  2020.
+
+\bibitem[Xu et~al.()Xu, Shen, Cao, Qiu, and Cheng]{xu2019graph}
+Xu, B., Shen, H., Cao, Q., Qiu, Y., and Cheng, X.
+\newblock Graph wavelet neural network.
+\newblock In \emph{7th International Conference on Learning Representations,
+  {ICLR} 2019}.
+
+\bibitem[Xu et~al.(2019)Xu, Hu, Leskovec, and Jegelka]{xu2018powerful}
+Xu, K., Hu, W., Leskovec, J., and Jegelka, S.
+\newblock How powerful are graph neural networks?
+\newblock In \emph{7th International Conference on Learning Representations,
+  {ICLR} 2019}, 2019.
+
+\bibitem[Xue et~al.(2020)Xue, Sun, and Sun]{xue2020multi}
+Xue, H., Sun, X.-K., and Sun, W.-X.
+\newblock Multi-hop hierarchical graph neural networks.
+\newblock In \emph{2020 IEEE International Conference on Big Data and Smart
+  Computing (BigComp)}, pp.\  82--89. IEEE, 2020.
+
+\bibitem[Ying et~al.(2018)Ying, You, Morris, Ren, Hamilton, and
+  Leskovec]{ying2018hierarchical}
+Ying, Z., You, J., Morris, C., Ren, X., Hamilton, W., and Leskovec, J.
+\newblock Hierarchical graph representation learning with differentiable
+  pooling.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  4800--4810, 2018.
+
+\bibitem[Zhang et~al.(2020)Zhang, Cui, and Zhu]{zhang2020deep}
+Zhang, Z., Cui, P., and Zhu, W.
+\newblock Deep learning on graphs: A survey.
+\newblock \emph{IEEE Transactions on Knowledge and Data Engineering}, 2020.
+
+\bibitem[Zhou et~al.(2018)Zhou, Cui, Zhang, Yang, Liu, Wang, Li, and
+  Sun]{zhou2018graph}
+Zhou, J., Cui, G., Zhang, Z., Yang, C., Liu, Z., Wang, L., Li, C., and Sun, M.
+\newblock Graph neural networks: A review of methods and applications.
+\newblock \emph{arXiv preprint arXiv:1812.08434}, 2018.
+
+\bibitem[Zhuang \& Ma(2018)Zhuang and Ma]{zhuang2018dual}
+Zhuang, C. and Ma, Q.
+\newblock Dual graph convolutional networks for graph-based semi-supervised
+  classification.
+\newblock In \emph{Proceedings of the 2018 World Wide Web Conference}, pp.\
+  499--508, 2018.
+
+\bibitem[Zou \& Lerman(2019)Zou and Lerman]{zou2019graph}
+Zou, D. and Lerman, G.
+\newblock Graph convolutional neural networks via scattering.
+\newblock \emph{Applied and Computational Harmonic Analysis}, 2019.
+
+\end{thebibliography}

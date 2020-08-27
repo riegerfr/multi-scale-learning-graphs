@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: seminar_paper.aux
+The style file: icml2020.bst
+Database file #1: example_paper.bib
+Repeated entry---line 613 of file example_paper.bib
+ : @inproceedings{defferrard2016convolutional
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 825 of file example_paper.bib
+ : @inproceedings{crovella2003graph
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 881 of file example_paper.bib
+ : @inproceedings{hamilton2017inductive
+ :                                     ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "wu2019simplifying"
+refers to entry "conf/icml/2019", which doesn't exist
+Warning--I didn't find a database entry for "conf/icml/2019"
+Warning--empty year in xu2019graph
+Warning--empty year in xu2019graph
+You've used 51 entries,
+            2773 wiz_defined-function locations,
+            844 strings with 14181 characters,
+and the built_in function-call counts, 28608 in all, are:
+= -- 2501
+> -- 1850
+< -- 30
++ -- 621
+- -- 567
+* -- 2321
+:= -- 4194
+add.period$ -- 159
+call.type$ -- 51
+change.case$ -- 343
+chr.to.int$ -- 48
+cite$ -- 104
+duplicate$ -- 1325
+empty$ -- 2241
+format.name$ -- 632
+if$ -- 6150
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 47
+newline$ -- 266
+num.names$ -- 204
+pop$ -- 766
+preamble$ -- 1
+purify$ -- 291
+quote$ -- 0
+skip$ -- 1097
+stack$ -- 0
+substring$ -- 1034
+swap$ -- 293
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 561
+warning$ -- 2
+while$ -- 226
+width$ -- 0
+write$ -- 657
+(There were 4 error messages)
